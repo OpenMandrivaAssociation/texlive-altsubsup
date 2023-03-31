@@ -1,6 +1,6 @@
 Name:		texlive-altsubsup
 Version:	62738
-Release:	1
+Release:	2
 Summary:	Subscripts and superscripts with square brackets
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/altsubsup
