@@ -3,7 +3,7 @@ Version:	62738
 Release:	2
 Summary:	Subscripts and superscripts with square brackets
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/altsubsup
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/altsubsup
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/altsubsup.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/altsubsup.doc.r%{version}.tar.xz
